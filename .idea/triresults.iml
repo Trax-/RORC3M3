@@ -123,18 +123,9 @@
     </content>
     <orderEntry type="jdk" jdkName="ruby-2.6.3-p62" jdkType="RUBY_SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" scope="PROVIDED" name="addressable (v2.6.0, ruby-2.6.3-p62) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="binding_of_caller (v0.8.0, ruby-2.6.3-p62) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="capybara (v3.19.1, ruby-2.6.3-p62) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="debug_inspector (v0.0.3, ruby-2.6.3-p62) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="json (v1.8.6, ruby-2.6.3-p62) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="public_suffix (v3.0.3, ruby-2.6.3-p62) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="rdoc (v4.3.0, ruby-2.6.3-p62) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="regexp_parser (v1.4.0, ruby-2.6.3-p62) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="rspec-rails (v3.8.2, ruby-2.6.3-p62) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="sdoc (v0.4.2, ruby-2.6.3-p62) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="web-console (v2.3.0, ruby-2.6.3-p62) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="xpath (v3.2.0, ruby-2.6.3-p62) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="bundler (v2.1.4, ruby-2.6.3-p62) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rake (v13.0.1, ruby-2.6.3-p62) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="regexp_parser (v1.7.0, ruby-2.6.3-p62) [gem]" level="application" />
   </component>
   <component name="RModuleSettingsStorage">
     <LOAD_PATH number="0" />
