@@ -1,0 +1,21 @@
+current directory: /home/tlo/RubymineProjects/RORC3M3/vendor/bundle /ruby/2.7.0/gems/bson-4.12.0/ext/bson
+/usr/bin/ruby -I /usr/lib/ruby/2.7.0 -r ./siteconf20210302-94975-rfm3bm.rb extconf.rb
+creating Makefile
+
+current directory: /home/tlo/RubymineProjects/RORC3M3/vendor/bundle /ruby/2.7.0/gems/bson-4.12.0/ext/bson
+make DESTDIR\= clean
+
+current directory: /home/tlo/RubymineProjects/RORC3M3/vendor/bundle /ruby/2.7.0/gems/bson-4.12.0/ext/bson
+make DESTDIR\=
+compiling bytebuf.c
+compiling endian.c
+compiling init.c
+compiling libbson-utf8.c
+compiling read.c
+compiling util.c
+compiling write.c
+linking shared-object bson_native.so
+
+current directory: /home/tlo/RubymineProjects/RORC3M3/vendor/bundle /ruby/2.7.0/gems/bson-4.12.0/ext/bson
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 bson_native.so ./.gem.20210302-94975-1fodc7q
