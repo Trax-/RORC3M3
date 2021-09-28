@@ -8,7 +8,7 @@
 vendor/bundle/*
 /.bundle
 /.idea
-.idea/dataSources.local.xml
+/.idea/dataSources.local.xml
 # Ignore the default SQLite database.
 /db/*.sqlite3
 /db/*.sqlite3-journal
