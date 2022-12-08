@@ -139,16 +139,16 @@ GEM
       net-protocol
     net-pop (0.1.2)
       net-protocol
-    net-protocol (0.2.0)
+    net-protocol (0.2.1)
       timeout
     net-smtp (0.3.3)
       net-protocol
     nio4r (2.5.8)
-    nokogiri (1.13.9-x86_64-linux)
+    nokogiri (1.13.10-x86_64-linux)
       racc (~> 1.4)
-    psych (5.0.0)
+    psych (5.0.1)
       stringio
-    public_suffix (5.0.0)
+    public_suffix (5.0.1)
     racc (1.6.1)
     rack (2.2.4)
     rack-test (2.0.2)
@@ -223,7 +223,7 @@ GEM
       activesupport (>= 5.2)
       sprockets (>= 3.0.0)
     sqlite3 (1.5.4-x86_64-linux)
-    stringio (3.0.2)
+    stringio (3.0.3)
     therubyracer (0.12.3)
       libv8 (~> 3.16.14.15)
       ref
