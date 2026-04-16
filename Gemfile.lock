@@ -72,7 +72,7 @@ GEM
       securerandom (>= 0.3)
       tzinfo (~> 2.0, >= 2.0.5)
       uri (~> 1.0.3)
-    addressable (2.8.7)
+    addressable (~> 2.9.0)
       public_suffix (>= 2.0.2, < 7.0)
     base64 (0.2.0)
     benchmark (0.4.0)
